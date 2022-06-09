@@ -50,6 +50,7 @@ p
 
 .startbutton
 {
+    font-family: 'GameOver';
     font-size: 100px;
     display: block;
     text-align: center;
