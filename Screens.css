@@ -15,12 +15,12 @@ p
 
 body
 {
+    margin: auto;
     background-color: rgb(55,55,55);
 }
 
 .content
 {
-    margin-top: 20cm;
     font-family: 'GameOver';
     width: 75%;
     margin: auto;
@@ -47,7 +47,66 @@ body
     margin-bottom: 1cm;
 }
 
-.startbutton:hover
+.download
+{
+    height: 01cm;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    color: chartreuse;
+    text-decoration: none;
+
+    padding-top:auto;
+    padding-bottom: auto;
+
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+h3, h2, p
+{
+    font-family: 'GameOver';
+    color: chartreuse;
+}
+
+.Martin
+{
+    margin-bottom: 2cm;
+}
+
+h1
+{
+    font-family: 'GameOver';
+    color: chartreuse;
+    font-size: 60px;
+    text-align: center;
+}
+
+img
+{
+    display: inline-block;
+}
+
+.obese
+{
+    display: inline-block;
+    width: 300px;
+    height: 500px;
+}
+
+.level1
+{
+    width: 1000px;
+    height: 300px;
+}
+
+.level
+{
+    width: 600px;
+    height: 300px;
+}
+
+a:hover
 {
     background-color: aliceblue;
 }
